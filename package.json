@@ -1,0 +1,22 @@
+{
+    "name": "express-static",
+    "version": "1.0.0",
+    "description": "a simple express server that can provide static files",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/404invalid-user/express-static.git"
+    },
+    "author": "404invalid-user",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/404invalid-user/express-static/issues"
+    },
+    "homepage": "https://github.com/404invalid-user/express-static#readme",
+    "dependencies": {
+        "express": "*"
+    }
+}
